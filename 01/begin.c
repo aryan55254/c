@@ -7,7 +7,7 @@
 int main(){//main  enetrry point of c program ()suggest main is not  taking any parameters
 //body starts  this is where you do your operations
     int a = 10; 
-    printf("%d",a);//statement : is used to terminate 
+    printf("%d",a);//statement ; is used to terminate 
 
     return 0;//return ths returns value from a function ins this case main 
 }
