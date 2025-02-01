@@ -3,13 +3,13 @@ int main(){
     int day = 7;
     switch(day){
         case 1:
-        prinf("monday");
+        printf("monday");
         break;
         case 2:
-        prinf("tuesday");
+        printf("tuesday");
         break;
         case 3:
-        prinf("wednesday");
+        printf("wednesday");
         break;
         case 4:
         printf("thursday");
